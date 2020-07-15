@@ -7,6 +7,7 @@
 固件源码地址：https://github.com/coolsnowwolf/lede
 
 
+Openwrt-x86 固件图
 ![avatar](boc/1.png)
 
 ![avatar](boc/2.png)
