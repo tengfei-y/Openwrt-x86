@@ -7,7 +7,9 @@
 固件源码地址：https://github.com/coolsnowwolf/lede
 
 
+![avatar](boc/1.png)
 
+![avatar](boc/2.png)
 
 > ip：192.168.1.1 密码：password
 
